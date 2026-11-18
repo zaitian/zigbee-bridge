@@ -1,0 +1,6 @@
+﻿# binaries
+*.exe
+# runtime logs
+bridge.log
+bridge.err
+*.exe~
